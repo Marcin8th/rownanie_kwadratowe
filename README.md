@@ -7,4 +7,4 @@ Do programu proszę napisać zbiór testów jednostkowych, które umożliwią sp
 brak pierwiastków rzeczywistych, 1 oraz 2 pierwiastki rzeczywiste. </br>
 Testy jednostkowe powinny znaleźć się w oddzielnym projekcie z wykorzystaniem wybranej platformy np. XUnit dla C#. 
 Testy powinny zostać napisane zgodnie z dobrymi praktykami przedstawionymi na wykładzie i szczególnie doceniane będą te rozwiązania,
-które wykorzystują różne możliwości klasy Assert oraz operują na różnych zestawach danych wejściowych (XUnit attribute Theory). </b
+które wykorzystują różne możliwości klasy Assert oraz operują na różnych zestawach danych wejściowych (XUnit attribute Theory). 
